@@ -1,0 +1,8 @@
+C:\Users\mixad\GitRepost\DynamicArray\DynamicArray\bin\Debug\DynamicArray.exe.config
+C:\Users\mixad\GitRepost\DynamicArray\DynamicArray\bin\Debug\DynamicArray.exe
+C:\Users\mixad\GitRepost\DynamicArray\DynamicArray\bin\Debug\DynamicArray.pdb
+C:\Users\mixad\GitRepost\DynamicArray\DynamicArray\obj\Debug\DynamicArray.csproj.AssemblyReference.cache
+C:\Users\mixad\GitRepost\DynamicArray\DynamicArray\obj\Debug\DynamicArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\mixad\GitRepost\DynamicArray\DynamicArray\obj\Debug\DynamicArray.csproj.CoreCompileInputs.cache
+C:\Users\mixad\GitRepost\DynamicArray\DynamicArray\obj\Debug\DynamicArray.exe
+C:\Users\mixad\GitRepost\DynamicArray\DynamicArray\obj\Debug\DynamicArray.pdb
